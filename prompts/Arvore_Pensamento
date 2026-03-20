@@ -1,0 +1,11 @@
+Gostaria que você resolvesse o seguinte problema pensando em uma árvore de soluções possíveis.
+
+Para cada etapa:
+1. Listar 3 caminhos de raciocínio alternativos (chamados "thoughts")
+2. Avaliar cada caminho em clareza, lógica e probabilidade de sucesso (qualifique como "Strong", "Promising", ou "Weak")
+3. Podar os caminhos fracos
+4. Para os caminhos restantes, explorar a próxima etapa
+
+Formato: Use indentação para mostrar profundidade da árvore. Marque avaliações com [STRONG], [PROMISING], [WEAK].
+
+Problema: [INSIRA AQUI]
