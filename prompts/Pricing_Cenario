@@ -1,0 +1,32 @@
+Gostaria que você simulasse cenários de preço para [PRODUTO/SERVIÇO].
+
+DADOS DE ENTRADA:
+- Preço base atual: [R$ XX]
+- Volume de vendas atual: [XX unidades/mês]
+- Margem atual: [XX%]
+- Custo variável por unidade: [R$ XX]
+- Custo fixo mensal: [R$ XX]
+- Elasticidade de preço estimada: [XX] (ou indique se desconhecida para estimar)
+
+CENÁRIOS A SIMULAR:
+1. Cenário Base: preço mantido
+2. Cenário Pessimista: aumento de preço de 10% (com elasticidade negativa)
+3. Cenário Agressivo: redução de preço de 15% (com elasticidade positiva)
+4. Cenário Ótimo: indique qual preço maximiza lucro
+
+PARA CADA CENÁRIO, MOSTRE:
+- Novo volume estimado (após elasticidade)
+- Receita total
+- Custo total
+- Lucro bruto
+- Margem de lucro %
+- Payback em relação ao cenário base
+
+METODOLOGIA:
+- Se elasticidade é desconhecida, use -0.8 como padrão para B2B, -1.2 para B2C
+- Use modelo linear: Novo Volume = Volume Base × (1 + (Δ Preço / Preço Base) × Elasticidade)
+
+ENTREGA:
+- Tabela comparativa de cenários
+- Gráfico (em ASCII) de lucro vs. preço
+- Recomendação final com intervalo de confiança
