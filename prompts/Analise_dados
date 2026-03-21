@@ -1,0 +1,33 @@
+Analise os dados fornecidos e gere insights em 5 camadas.
+
+CAMADA 1 — VISÃO GERAL:
+- Tamanho do dataset (# registros, # colunas)
+- Período coberto
+- Valores ausentes ou anómalias óbvias
+
+CAMADA 2 — TENDÊNCIAS:
+- Qual métrica cresce/cai ao longo do tempo?
+- Sazonalidade ou ciclos?
+- Quebras estruturais (mudanças súbitas)?
+
+CAMADA 3 — SEGMENTAÇÃO:
+- Qual segmento (por produto, região, cliente) lidera?
+- Qual segmento mais fraco?
+- Divergências: alguns crescem enquanto outros caem?
+
+CAMADA 4 — CORRELAÇÕES:
+- Que duas variáveis se movem juntas?
+- Se X aumenta, Y aumenta ou diminui?
+- Causa provável ou coincidência?
+
+CAMADA 5 — RECOMENDAÇÕES:
+- 3 ações para ampliar tendências positivas
+- 2 ações para reverter tendências negativas
+- 1 oportunidade de descoberta (algo não-óbvio)
+
+ENTREGA:
+- Sumário executivo (4-5 frases)
+- Tabelas de resultados
+- Qualifique confiança: High/Medium/Low para cada insight
+
+[INSIRA DADOS]
