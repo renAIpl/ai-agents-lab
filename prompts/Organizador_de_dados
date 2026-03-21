@@ -1,0 +1,19 @@
+Converta as informações caóticas abaixo em tabelas Markdown estruturadas.
+
+INSTRUÇÕES:
+- Uma tabela por categoria/tópico
+- Colunas: escolha as mais relevantes para ação
+- Ordene por: [importância, data, alfabético?]
+- Se há dados ausentes, use "—"
+- Ao final, adicione 2-3 observações críticas
+
+FORMATO ESPERADO:
+| Coluna A | Coluna B | Coluna C |
+|----------|----------|----------|
+| valor    | valor    | valor    |
+
+DADOS DESESTRUTURADOS:
+[INSIRA DADOS CAÓTICOS AQUI: notas, emails, PDFs, screenshots, etc.]
+
+TABELAS ESPERADAS:
+[Liste quantas tabelas devem sair. Ex: "1 tabela de clientes, 1 de transações, 1 de riscos"]
