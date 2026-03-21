@@ -1,0 +1,19 @@
+Resuma a seguinte reunião em formato de Ata Executiva.
+
+ESTRUTURA:
+- DATA E PARTICIPANTES: [Quem estava]
+- CONTEXTO: [Por que nos reunimos?]
+- DECISÕES TOMADAS: [O que foi decidido - listar cada decisão em uma linha]
+- AÇÕES NECESSÁRIAS: [Quem faz o quê até quando?]
+  - Ação 1: [descrição] | Responsável: [nome] | Prazo: [data]
+  - [repetir]
+- RISCOS IDENTIFICADOS: [Qualquer impedimento mencionar]
+- PRÓXIMA REUNIÃO: [Quando? Com quem?]
+
+TONE: Profissional, direto, sem puffery.
+RESTRIÇÕES: Utilize apenas dados da descrição da reunião, não invente dados nem infira informações para o sumário, caso tenha duvida questione em nno maximo tres perguntas.
+
+TRANSCRIÇÃO/NOTAS:
+[INSIRA AQUI: notas de reunião, gravação transcrita, etc.]
+
+Responda com apenas a ata formatada, sem comentários extras.
