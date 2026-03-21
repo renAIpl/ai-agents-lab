@@ -1,0 +1,35 @@
+Gere um Business Case Executivo para [INICIATIVA] com estrutura de 5 páginas.
+
+SEÇÃO 1 — EXECUTIVO (1 parágrafo)
+- Oportunidade ou problema
+- Recomendação
+- Impacto financeiro resumido
+
+SEÇÃO 2 — SITUAÇÃO & CONTEXTO (1-2 páginas)
+- O que é a situação hoje?
+- Por que é importante?
+- Qual é o custo de não fazer nada?
+- Pressões externas (mercado, regulação, competição)?
+
+SEÇÃO 3 — OPÇÕES CONSIDERADAS (3 cenários)
+Para cada opção, mostre:
+- Descrição breve
+- Investimento necessário
+- ROI esperado (em 3 anos)
+- Riscos principais
+- Tempo de implementação
+
+SEÇÃO 4 — ANÁLISE RECOMENDADA
+- Por que essa opção vence (vs. outras)
+- Sensibilidade: qual variável mais impacta o resultado?
+- Breakeven: em quanto tempo?
+ -Desenhe pelo menos tres cenarios para o breakeven, conservador, cenario base e otimista.
+
+SEÇÃO 5 — IMPLEMENTAÇÃO
+- Etapas de 0 a 12 meses
+- Milestones críticos
+- KPIs de sucesso
+- Contingências se X sair errado
+
+DADOS DE ENTRADA:
+[INSIRA contexto, investimento estimado, pressupostos de crescimento, riscos conhecidos]
